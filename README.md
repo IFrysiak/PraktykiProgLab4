@@ -1,1 +1,0 @@
-# PraktykiProgLab4
